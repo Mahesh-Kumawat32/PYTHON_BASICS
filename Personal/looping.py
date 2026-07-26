@@ -95,4 +95,37 @@
 #         print("You enter something wrong")
 #         continue
 
+#9
+# n = int(input("Enter a number : "))
+# original = n
+# cnt = 0
+# oddcnt = 0
+# while n>0:
+#     digit = n%10
+#     if digit%2==0:
+#         cnt = cnt +1
+#     elif digit % 2!=0:
+#         oddcnt = oddcnt+1
+#     n = n//10
+# print(f"Even in {original} : {cnt}")
+# print(f"odd in {original} : {oddcnt}")
+
+
+
+#10
+# starting = int(input("Enter start number of prime : "))
+# ending = int(input("Enter ending number of prime : "))
+
+# for i in range(starting, ending+1):
+#     cnt = 0
+#     for j in range(1,ending+1):
+#         if i%j==0:
+#             cnt = cnt +1
+#         else:
+#             continue
+#     if cnt == 2:
+#         print(i)
+#     else:
+#         continue
     
+
