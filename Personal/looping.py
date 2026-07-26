@@ -60,19 +60,39 @@
 #     print(f"The number {n} is not pelindrome")
 
 #7
-n = int(input("Enter a number : "))
-original = n
-digits = len(str(n))
-if n==0:
-    print(f"{n} is a armstrong number")
-else:
-    sum = 0
-    cnt = 0
-    while n>0:
-        digit = n%10
-        sum = sum + (digit**digit)
-        digit = digit//10
-    if sum==original:
-        print(f"Number {original} is a Armstrong Number")
-    else:
-        print(f"{original} is not a Armstrong Number")
+# n = int(input("Enter a number : "))
+# original = n
+# digits = len(str(n))
+# if n==0:
+#     print(f"{n} is a armstrong number")
+# else:
+#     sum = 0
+#     cnt = 0
+#     while n>0:
+#         digit = n%10
+#         sum = sum + (digit**digits)
+#         n = n//10
+#     if sum==original:
+#         print(f"Number {original} is a Armstrong Number")
+#     else:
+#         print(f"{original} is not a Armstrong Number")
+
+#8
+# import random
+# number = random.randint(1,20)
+# while True:
+#     guess = int(input("guess number between (1-20) : "))
+#     if guess==number:
+#         print(f"You got this time its {number} corret ✔")
+#         break
+#     elif guess<number:
+#         print(f"its less")
+#         continue
+#     elif guess>number:
+#         print(f"its big")
+#         continue
+#     else:
+#         print("You enter something wrong")
+#         continue
+
+    
