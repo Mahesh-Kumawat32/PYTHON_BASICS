@@ -1,0 +1,138 @@
+==========================
+PYTHON CONDITIONAL STATEMENTS PRACTICE (10 QUESTIONS)
+==========================
+
+1. Positive, Negative, or Zero
+Question:
+Take an integer as input and print whether it is Positive, Negative, or Zero.
+
+Expected Output Example:
+Enter a number: -15
+Negative Number
+
+
+--------------------------------------------------
+
+2. Even or Odd
+Question:
+Take an integer as input and print whether it is Even or Odd.
+
+Expected Output Example:
+Enter a number: 24
+Even Number
+
+
+--------------------------------------------------
+
+3. Largest of Three Numbers
+Question:
+Take three integers as input and print the largest number.
+
+Expected Output Example:
+Enter first number: 10
+Enter second number: 45
+Enter third number: 30
+
+Largest Number = 45
+
+
+--------------------------------------------------
+
+4. Leap Year Checker
+Question:
+Take a year as input and determine whether it is a Leap Year.
+
+Expected Output Example:
+Enter year: 2024
+
+2024 is a Leap Year
+
+
+--------------------------------------------------
+
+5. Grade Calculator
+Question:
+Take marks of five subjects. Calculate the percentage and display the grade.
+
+Expected Output Example:
+Percentage = 84.4%
+
+Grade = B
+
+
+--------------------------------------------------
+
+6. Electricity Bill
+Question:
+Take the number of electricity units consumed and calculate the bill according to different slabs.
+
+Expected Output Example:
+Units Consumed: 180
+
+Total Bill = 1160
+
+
+--------------------------------------------------
+
+7. ATM Withdrawal
+Question:
+Take account balance and withdrawal amount. Allow withdrawal only if:
+- Balance is sufficient.
+- Withdrawal amount is a multiple of 100.
+- Minimum balance after withdrawal is 500.
+
+Expected Output Example:
+Withdrawal Successful
+
+Remaining Balance = 4200
+
+OR
+
+Insufficient Balance
+
+
+--------------------------------------------------
+
+8. BMI Calculator
+Question:
+Take height (meters) and weight (kg). Calculate BMI and print its category.
+
+Expected Output Example:
+BMI = 23.4
+
+Category = Normal Weight
+
+
+--------------------------------------------------
+
+9. Login System
+Question:
+Store a username and password in the program. Ask the user to enter credentials and validate them.
+
+Expected Output Example:
+Login Successful
+
+OR
+
+Invalid Username
+
+OR
+
+Invalid Password
+
+
+--------------------------------------------------
+
+10. Shopping Discount
+Question:
+Take the purchase amount and apply the appropriate discount.
+
+Expected Output Example:
+Purchase Amount = 6500
+
+Discount = 20%
+
+Final Amount = 5200
+
+
+

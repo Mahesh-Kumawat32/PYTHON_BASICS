@@ -1,0 +1,149 @@
+====================================================
+PYTHON LOOPS PRACTICE (10 QUESTIONS)
+====================================================
+
+1. Print Numbers
+Question:
+Print numbers from 1 to N.
+
+Expected Output Example:
+Enter N: 5
+
+1
+2
+3
+4
+5
+
+
+--------------------------------------------------
+
+2. Sum of Natural Numbers
+Question:
+Find the sum of numbers from 1 to N.
+
+Expected Output Example:
+Enter N: 10
+
+Sum = 55
+
+
+--------------------------------------------------
+
+3. Multiplication Table
+Question:
+Print the multiplication table of a given number up to 10.
+
+Expected Output Example:
+Enter Number: 7
+
+7 x 1 = 7
+7 x 2 = 14
+7 x 3 = 21
+...
+7 x 10 = 70
+
+
+--------------------------------------------------
+
+4. Count Digits
+Question:
+Count the total number of digits in a given integer.
+
+Expected Output Example:
+Enter Number: 583726
+
+Total Digits = 6
+
+
+--------------------------------------------------
+
+5. Reverse a Number
+Question:
+Reverse the digits of a given integer.
+
+Expected Output Example:
+Enter Number: 12345
+
+Reversed Number = 54321
+
+
+--------------------------------------------------
+
+6. Palindrome Number
+Question:
+Check whether a given number is a palindrome.
+
+Expected Output Example:
+Enter Number: 121
+
+Palindrome Number
+
+OR
+
+Not a Palindrome Number
+
+
+--------------------------------------------------
+
+7. Armstrong Number
+Question:
+Determine whether a given number is an Armstrong number.
+
+Expected Output Example:
+Enter Number: 153
+
+Armstrong Number
+
+
+--------------------------------------------------
+
+8. Guess the Secret Number
+Question:
+Store a secret number. Keep asking the user to guess until the correct number is entered.
+
+Expected Output Example:
+Enter Guess: 20
+Too Low
+
+Enter Guess: 80
+Too High
+
+Enter Guess: 50
+Correct Guess
+
+
+--------------------------------------------------
+
+9. Number Frequency Counter
+Question:
+For a given integer, count:
+- Total even digits
+- Total odd digits
+- Sum of all digits
+
+Expected Output Example:
+Enter Number: 457832
+
+Even Digits = 3
+Odd Digits = 3
+Sum of Digits = 29
+
+
+--------------------------------------------------
+
+10. Prime Numbers in a Range
+Question:
+Take a starting number and an ending number. Print all prime numbers in that range.
+
+Expected Output Example:
+Enter Start: 10
+Enter End: 30
+
+Prime Numbers:
+11
+13
+17
+19
+23
+29
