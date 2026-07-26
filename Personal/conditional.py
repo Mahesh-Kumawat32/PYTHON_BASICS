@@ -121,14 +121,88 @@
 #     print(f"YOU ENTER SOMETHING WRONG!")
 
 #7
-balance = int(input("Enter Your Balance : "))
-withdrawl_amt = int(input("Enter Withdrawl amount (like: 100,500,100 | not like: 323/340 etc.): "))
-if withdrawl_amt%100==0 and withdrawl_amt<balance:
-    if (withdrawl_amt-balance)>500:
-        print("Withdrawl Successfully")
-        print(f"Remaining Balance : {withdrawl_amt-balance}")
-    else:
-        print("Insufficeint Balance")
-else:
-    print(f"You cannot Withdrawl {withdrawl_amt} due to less balance or incorret input")
+# balance = int(input("Enter Your Balance : "))
+# withdrawl_amt = int(input("Enter Withdrawl amount (like: 100,500,100 | not like: 323/340 etc.): "))
+# if withdrawl_amt%100==0 and withdrawl_amt<balance:
+#     if (balance-withdrawl_amt)>500:
+#         print("Withdrawl Successfully")
+#         print(f"Remaining Balance : {balance-withdrawl_amt}")
+#     else:
+#         print("Insufficeint Balance")
+# else:
+#     print(f"You cannot Withdrawl {withdrawl_amt} due to less balance or incorret input")
     
+#8
+# weight = float(input("ENTER YOUR WEIGHT (KG) : "))
+# height = float(input("ENTER YOUR HEIGHT (METER) : "))
+# bmi = weight/(height**height)
+# if bmi<18.5:
+#     print("UNDER WEIGHT")
+# elif bmi>=18.5 and bmi<24.9:
+#     print("NORMAL WEIGHT")
+#     print("GOOD 👍")
+# elif bmi>=24.9 and bmi<29.9:
+#     print("OVER WEIGHT")
+# elif bmi>30.0:
+#     print("OBESE")
+# else:
+#     print("YOU ENTER SOMETHING WRONG!")
+
+#9
+# username = input("USERNAME : ")
+# password = input("PASSWORD : ")
+# print("YOUR CREDENTIAL STORED SUCCESSFULLY 👍")
+# print("NOW VALIDATE THEM BY RE ENTERING AGAIN : ")
+# check_username = input("USERNAME : ")
+# check_password = input("PASSWORD : ")
+# if username==check_username and check_password==password:
+#     print(40*"-")
+#     print("YOU ARE LOGGED IN SUCCESSFULLY 😊")
+#     print(40*"-")
+# else:
+#     print(40*"-")
+#     print("YOUR CREDENTIAL ARE WRONG!")
+#     print(40*"-")
+
+#10
+# item = input("ENTER ITEM YOU WANT TO BUY : ")
+# price = float(input("PRICE : "))
+
+# if price>0 and price<500:
+#     print(40*"-")
+#     print(f"ITEM NAME : {item}")
+#     print(f"ITEM PRICE : {price}")
+#     print(f"FINAL AMOUNT : {price} (NO DISCOUNT)")
+#     print(40*"-")
+# elif price>=500 and price<1000:
+#     print(40*"-")
+#     print(f"ITEM NAME : {item}")
+#     print(f"ITEM PRICE : {price}")
+#     print(f"ITEM DISCOUNT : {price*0.2}")
+#     print(f"FINAL AMOUNT : {price-(price*0.2)} (20% DISCOUNT)")
+#     print(40*"-")
+# elif price>=1000 and price<2000:
+#     print(40*"-")
+#     print(f"ITEM NAME : {item}")
+#     print(f"ITEM PRICE : {price}")
+#     print(f"ITEM DISCOUNT : {price*0.3}")
+#     print(f"FINAL AMOUNT : {price-(price*0.3)} (30% DISCOUNT)")
+#     print(40*"-")
+# elif price>=2000 and price<5000:
+#     print(40*"-")
+#     print(f"ITEM NAME : {item}")
+#     print(f"ITEM PRICE : {price}")
+#     print(f"ITEM DISCOUNT : {price*0.4}")
+#     print(f"FINAL AMOUNT : {price-(price*0.4)} (40% DISCOUNT)")
+#     print(40*"-")
+# elif price>=5000:
+#     print(40*"-")
+#     print(f"ITEM NAME : {item}")
+#     print(f"ITEM PRICE : {price}")
+#     print(f"ITEM DISCOUNT : {price*0.5}")
+#     print(f"FINAL AMOUNT : {price-(price*0.5)} (50%) DISCOUNT")
+#     print(40*"-")
+# else:
+#     print(40*"-")
+#     print("YOU ENTER SOMETHING WRONG!")
+#     print(40*"-")
