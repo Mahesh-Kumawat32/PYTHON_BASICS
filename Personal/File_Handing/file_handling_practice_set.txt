@@ -1,0 +1,46 @@
+==============================
+BEGINNER FILE I/O PRACTICE TASKS
+==============================
+
+1. Create a file named `student.txt` and write your name, age, and city into it.
+
+2. Read and print the complete contents of `student.txt`.
+
+3. Read the file line by line and print each line.
+
+4. Count the total number of lines in the file.
+
+5. Count the total number of characters in the file.
+
+6. Count the total number of words in the file.
+
+7. Append a new line containing your favorite programming language.
+
+8. Print only the first line of the file.
+
+9. Print only the last line of the file.
+
+10. Print the entire file content in uppercase.
+
+11. Ask the user for a word and check whether it exists in the file.
+
+12. Count how many times a given word appears in the file.
+
+13. Copy the contents of `student.txt` into `backup.txt`.
+
+14. Replace one word in the file with another and save the changes.
+
+15. Print each line along with its line number.
+
+16. Take details of 5 students (Name, Age, City) from the user and store them in `students.txt`.
+
+17. Read and display all student records from `students.txt`.
+
+18. Search for a student by name and display the complete record if found.
+
+19. Count the number of empty lines in a file.
+
+20. Create a simple Notes App with the following menu:
+    1. Add Note
+    2. View Notes
+    3. Exit
