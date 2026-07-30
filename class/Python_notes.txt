@@ -5,7 +5,7 @@ UNIT -->1
 4. operators in python
 5. input function, type function in python
 6. conditional statements (if-else, if-elif-else, match case, nested if else)
-7. loops(for loop, while loop)\
+7. loops(for loop, while loop) and jump statements(break,continue)
 
 UNIT -->2
 8. functions, with arguments and parameters, return statement,
@@ -14,4 +14,9 @@ UNIT -->2
 10. local and global variable scopes
 12. Data Structure :
     1.List, accessing elements, methods
+    2.Tuple, accessing elements, methods
+    3.Dictionary , accessing elements, methods
+    4.Set, accessing elements, methods
+13. Strings, with different quotations, methods of it.
+14.
     
