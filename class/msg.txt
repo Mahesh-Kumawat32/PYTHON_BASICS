@@ -1,0 +1,1 @@
+This is Python file handling sessionthis is file handling sessionpython -u "d:\PYTHON\PYTHON_BASICS\class\FILE HANDLING\file_handling_question.py"this is text datathis is a file handling codethis is a file handling codethis is a afile
